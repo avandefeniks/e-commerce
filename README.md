@@ -2,18 +2,19 @@
 ![](./assets/images/insomnia.jpg) 
 
 ## Description
-This is a CLI application that allows a person to view information about their company. It allows them to view all of their departments, roles and employees. It  allows them to add a department, a role and an employee. It also has the ability to update an employee's role.
+This is a CLI application that runs an e-commerce store. It has products that belong to categories and tag names that resemble more specific categories. The application allows a person to create, read, update and delete (CRUD) categories, products and tags.
 
 ## Technologies Used
 * Node.js
-* MySQL2
-* Inquirer
+* Express.js
+* MySQL
+* Sequelize
+* Insomnia
 * SQL
-* console.table
 * dotenv
 
 ### Video Link
-[]()
+[https://drive.google.com/file/d/1oxkNIBtNjOF7QGGf9HlXVqxM3rVKG1Os/view](https://drive.google.com/file/d/1oxkNIBtNjOF7QGGf9HlXVqxM3rVKG1Os/view)
 
 ### Created by
 Angel Van de Feniks
