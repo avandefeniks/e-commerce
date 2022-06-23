@@ -8,6 +8,7 @@ This is a CLI application that runs an e-commerce store. It has products that be
 * Node.js
 * Express.js
 * MySQL
+* MySQL2
 * Sequelize
 * Insomnia
 * SQL
